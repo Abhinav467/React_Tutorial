@@ -4,8 +4,6 @@ import './App.css';
 function App() {
   console.log(123)
   console.log("hello");
-  console.log("hello");
-  console.log("hello");
   return (
     <div className="App">
       <header className="App-header">
